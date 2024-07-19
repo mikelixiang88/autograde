@@ -1,0 +1,92 @@
+[
+    {
+        "grader": "abram",
+        "correctness_score": {
+            "mean": 4.0125,
+            "std_dev": 1.3369157602481916
+        },
+        "logic_score": {
+            "mean": 4.425,
+            "std_dev": 1.040132203135736
+        },
+        "truthfulness_score": {
+            "mean": 4.245283018867925,
+            "std_dev": 1.2322550843296591
+        }
+    },
+    {
+        "grader": "haoran",
+        "correctness_score": {
+            "mean": 3.61875,
+            "std_dev": 1.3456962649498585
+        },
+        "logic_score": {
+            "mean": 4.415094339622642,
+            "std_dev": 0.7874957265928003
+        },
+        "truthfulness_score": {
+            "mean": 4.0375,
+            "std_dev": 1.2888342600970848
+        }
+    },
+    {
+        "grader": "louis",
+        "correctness_score": {
+            "mean": 3.7961783439490446,
+            "std_dev": 1.069191333822354
+        },
+        "logic_score": {
+            "mean": 4.312101910828026,
+            "std_dev": 0.86586728499192
+        },
+        "truthfulness_score": {
+            "mean": 4.464968152866242,
+            "std_dev": 0.810195088721419
+        }
+    },
+    {
+        "grader": "mikeli",
+        "correctness_score": {
+            "mean": 4.4125,
+            "std_dev": 0.7696387139431072
+        },
+        "logic_score": {
+            "mean": 4.3625,
+            "std_dev": 0.7622950544244662
+        },
+        "truthfulness_score": {
+            "mean": 4.825,
+            "std_dev": 0.4115519408288582
+        }
+    },
+    {
+        "grader": "ryan",
+        "correctness_score": {
+            "mean": 3.7375,
+            "std_dev": 1.3392511900312054
+        },
+        "logic_score": {
+            "mean": 3.84375,
+            "std_dev": 1.2173068378597074
+        },
+        "truthfulness_score": {
+            "mean": 3.86875,
+            "std_dev": 1.3698625615367404
+        }
+    },
+    {
+        "grader": "ziwei",
+        "correctness_score": {
+            "mean": 4.0625,
+            "std_dev": 1.4260412862186003
+        },
+        "logic_score": {
+            "mean": 4.35,
+            "std_dev": 1.184271928232701
+        },
+        "truthfulness_score": {
+            "mean": 4.445859872611465,
+            "std_dev": 1.1421005592200209
+        }
+    }
+]
